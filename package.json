@@ -1,0 +1,15 @@
+{
+  "name": "static-outbound-ip",
+  "version": "0.0.1",
+  "description": "A template serverless project of a lambda function with static output IP",
+  "main": "handler.js",
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Ho",
+  "license": "ISC"
+}
